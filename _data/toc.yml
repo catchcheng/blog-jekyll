@@ -1,15 +1,47 @@
-- title: Documentation
+- title: Project
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "Data Science"
+      url: "docs/1data-science"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
+        - title: Speech and Language Processing
+          url: "docs/subfolder/speechandlanguageprocessing"
         - title: Development
-          url: "docs/getting-started#development"
+          url: "docs/data-science#development"
         - title: Customization
-          url: "docs/getting-started#customization"
+          url: "docs/data-science#customization"
+    - title: "Business"
+      url: "docs/business"
+      children:
+        - title: Personal Blog Website
+          url: "docs/extras/example-quiz"
+        - title: Ecommerce Website
+          url: "docs/extras/example-quiz"
+    - title: "Language"
+      url: "docs/extras"
+      children:
+        - title: Français
+          url: "docs/extras/example-quiz"
+        - title: 古文
+          url: "docs/extras/example-quiz"
+    - title: "Art"
+      url: "docs/extras"
+      children:
+        - title: Graphic Design
+          url: "docs/extras/example-quiz"
+        - title: PS & AI
+          url: "docs/extras/example-quiz"
+        - title: Piano
+          url: "docs/extras/example-quiz"
+        - title: Literature
+          url: "docs/extras/example-quiz"
+        - title: Film
+          url: "docs/extras/example-quiz"
+    - title: "Philosophy"
+      url: "docs/extras"
+      children:
+        - title: Cognitive Science
+          url: "docs/extras/example-quiz"
     - title: "Extras"
       url: "docs/extras"
       children:
@@ -19,5 +51,5 @@
           url: "tags"
     - title: "About"
       url: "about"
-    - title: "News"
-      url: "news"
+    - title: "Blog"
+      url: "blog"

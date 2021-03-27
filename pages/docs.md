@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Documentation
+title: Project
 permalink: /docs/
 ---
 
-# Documentation
+# Project
 
-Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
+Welcome to the {{ site.title }} project pages! Here you can quickly jump to a
 particular page.
 
 <div class="section-index">

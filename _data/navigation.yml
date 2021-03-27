@@ -1,4 +1,6 @@
 - title: About
   url: about
-- title: Documentation
+- title: Project
   url: docs
+- title: Blog
+  url: blog
